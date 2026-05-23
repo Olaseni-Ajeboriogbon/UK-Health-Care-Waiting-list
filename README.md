@@ -1,1 +1,2 @@
-# UK-Health-Care-Waiting-Times
+# Scotland-Cancer-Waiting-Times
+![Project Dashboard][Cancer_waiting_intro.png]
