@@ -1,2 +1,2 @@
 # Scotland-Cancer-Waiting-Times
-![Project Dashboard][Cancer_waiting_intro.png]
+![Project Dashboard](Cancer_waiting_intro.png)
