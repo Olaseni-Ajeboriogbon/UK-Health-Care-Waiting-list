@@ -36,3 +36,7 @@ E. Waiting Time Distribution Analysis (How long are patients waiting?)
   Using Median, Max, and 95th Percentile:
   1. Compare typical waiting times across boards.
   2. Identify extreme delays (max values).
+
+## Data Transformation
+
+## Data Modeling
