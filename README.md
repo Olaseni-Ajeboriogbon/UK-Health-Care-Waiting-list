@@ -38,5 +38,12 @@ E. Waiting Time Distribution Analysis (How long are patients waiting?)
   2. Identify extreme delays (max values).
 
 ## Data Transformation
+Data cleaning and transformation were carried out using Power Query.
+All column headers were reviewed and renamed because they originally contained abbreviations that were not easy to understand.
+The dataset also included some empty values, which were removed to improve data quality.
+Additionally, the Health Board column contained coded values that lacked clarity, so I downloaded the full Health Board reference data and merged it with the main dataset to make the information more meaningful and interpretable.
 
-## Data Modeling
+
+## Analysis and Findings
+
+
